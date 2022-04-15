@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98279137354",
+    "project_id": "ghrce-coolwheels-e7cda",
+    "storage_bucket": "ghrce-coolwheels-e7cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98279137354:android:73cdf260cdd502086886b3",
+        "android_client_info": {
+          "package_name": "com.example.ghrcecoolwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98279137354-6hpjc3j1p0igbao59qad60vgnod54hs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oVMqSjWyN15R5B0mYKQev7pL3o1WhE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98279137354-6hpjc3j1p0igbao59qad60vgnod54hs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
